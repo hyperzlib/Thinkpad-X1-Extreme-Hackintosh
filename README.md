@@ -1,5 +1,5 @@
 # Thinkpad X1 Extreme Hackintosh OpenCore 9.3.0
-English | [简体中文](./README_CN.md)
+**English** | [简体中文](./README_CN.md)
 
 ## Introduction
 This is a EFI for Thinkpad X1 Extreme Hackintosh. It based on [zysuper/Thinkpad-X1-extreme-EFI](https://github.com/zysuper/Thinkpad-X1-extreme-EFI), [flymin/Hackintosh-Thinkpad-X1-Extreme](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme) and [sqlsec/CHUWI-COREBOOK-X-I5-8259U](https://github.com/sqlsec/CHUWI-COREBOOK-X-I5-8259U).
