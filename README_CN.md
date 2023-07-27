@@ -2,7 +2,7 @@
 [English](./README.md) | **简体中文**
 
 # 介绍
-这是适用于 Thinkpad X1 Extreme Hackintosh 的 EFI。基于[zysuper/Thinkpad-X1-extreme-EFI](https://github.com/zysuper/Thinkpad-X1-extreme-EFI)、[flymin/Hackintosh-Thinkpad-X1-Extreme](https:// github.com/flymin/Hackintosh-Thinkpad-X1-Extreme)和 [sqlsec/CHUWI-COREBOOK-X-I5-8259U](https://github.com/sqlsec/CHUWI-COREBOOK-X-I5-8259U)指针。
+这是适用于 Thinkpad X1 Extreme Hackintosh 的 EFI。基于[zysuper/Thinkpad-X1-extreme-EFI](https://github.com/zysuper/Thinkpad-X1-extreme-EFI)、[flymin/Hackintosh-Thinkpad-X1-Extreme](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme)和[sqlsec/CHUWI-COREBOOK-X-I5-8259U](https://github.com/sqlsec/CHUWI-COREBOOK-X-I5-8259U)制作
 
 已在 macOS Ventura (13.5) 和 macOS Monterey (12.6，需要将 AirportItlwm.kext 替换为 Monterey 版本) 上进行测试。
 
